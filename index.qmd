@@ -1,0 +1,16 @@
+---
+title: "Tyler Wiederich, Ph.D."
+subtitle: "University of Nebraska--Lincoln"
+about:
+  template: jolla
+  image: images/Profile_Wiederich.jpg
+  links: 
+    - text: STAT 218
+      href: https://staturn-courses.github.io/stat-218/
+    - text: STAT 380
+      href: https://staturn-courses.github.io/stat-380/
+    - text: STAT 801A
+      href: https://staturn-courses.github.io/stat-801a/
+---
+
+Welcome! On this website, you can find my current and previous courses. Current courses are provided below for quick access.

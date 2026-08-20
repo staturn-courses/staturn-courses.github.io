@@ -1,0 +1,11 @@
+---
+title: "Resources"
+format: html
+---
+
+If you are new to R programming, here are some helpful links:
+
+- Download R: <https://cloud.r-project.org>
+- Download R Studio Desktop: <https://posit.co/downloads>
+- Download Quarto: <https://quarto.org/docs/download/>
+- R for Data Science: <https://r4ds.hadley.nz>
