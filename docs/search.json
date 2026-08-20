@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "If you are new to R programming, here are some helpful links:\n\nDownload R: https://cloud.r-project.org\nDownload R Studio Desktop: https://posit.co/downloads\nDownload Quarto: https://quarto.org/docs/download/\nR for Data Science: https://r4ds.hadley.nz"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT 801A"
+  },
+  {
+    "objectID": "courses.html#fall-2026",
+    "href": "courses.html#fall-2026",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT 801A"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tyler Wiederich, Ph.D.",
+    "section": "",
+    "text": "Welcome! On this website, you can find my current and previous courses. Current courses are provided below for quick access."
+  }
+]
