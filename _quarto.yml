@@ -6,8 +6,6 @@ website:
   title: "Staturn Courses"
   navbar:
     left:
-      - href: courses.qmd
-        text: Courses
       - href: resources.qmd
         text: Resources
   page-footer:
