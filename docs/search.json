@@ -4,27 +4,34 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "If you are new to R programming, here are some helpful links:\n\nDownload R: https://cloud.r-project.org\nDownload R Studio Desktop: https://posit.co/downloads\nDownload Quarto: https://quarto.org/docs/download/\nR for Data Science: https://r4ds.hadley.nz"
+    "text": "Here are a collection of links that I have found to be helpful with R programming.\nReferences\n\nR for Data Science: https://r4ds.hadley.nz\nQuarto documentation: https://quarto.org/docs/guide/\n\nDownload Links\n\nDownload R: https://cloud.r-project.org\nDownload R Studio Desktop: https://posit.co/downloads\nDownload Quarto: https://quarto.org/docs/download/"
   },
   {
     "objectID": "courses.html",
     "href": "courses.html",
-    "title": "Courses",
+    "title": "Staturn Courses",
     "section": "",
-    "text": "STAT 801A"
+    "text": "STAT 218\nSTAT 380\nSTAT 801A"
   },
   {
     "objectID": "courses.html#fall-2026",
     "href": "courses.html#fall-2026",
-    "title": "Courses",
+    "title": "Staturn Courses",
     "section": "",
-    "text": "STAT 801A"
+    "text": "STAT 218\nSTAT 380\nSTAT 801A"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tyler Wiederich, Ph.D.",
     "section": "",
-    "text": "Welcome! On this website, you can find my current and previous courses. Current courses are provided below for quick access."
+    "text": "Welcome! I teach statistics and probability at the University of Nebraska–Lincoln, with an emphasis on applications, computation, and statistical thinking. My current courses are provided below for my students and anyone else interested in learning statistics."
+  },
+  {
+    "objectID": "index.html#current-courses",
+    "href": "index.html#current-courses",
+    "title": "Tyler Wiederich, Ph.D.",
+    "section": "Current Courses",
+    "text": "Current Courses\n\n\n\n\n\n\n\n\n\nSTAT 218\nIntroduction to Statistics\n\n\n\n\n\n\n\n\n\n\n\nSTAT 380\nStatistics and Applications\n\n\n\n\n\n\n\n\n\n\n\nSTAT 801A\nStatistical Methods in Research"
   }
 ]

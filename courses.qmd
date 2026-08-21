@@ -1,8 +1,11 @@
 ---
-title: "Courses"
-format: html
+format: 
+  html:
+    toc: false
 ---
 
 ## Fall 2026
 
+- [STAT 218](https://staturn-courses.github.io/stat-218/)
+- [STAT 380](https://staturn-courses.github.io/stat-380/)
 - [STAT 801A](https://staturn-courses.github.io/stat-801a/)

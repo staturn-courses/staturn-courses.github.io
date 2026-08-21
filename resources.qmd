@@ -3,9 +3,16 @@ title: "Resources"
 format: html
 ---
 
-If you are new to R programming, here are some helpful links:
+Here are a collection of links that I have found to be helpful with R programming. 
+
+**References**
+
+- R for Data Science: <https://r4ds.hadley.nz>
+- Quarto documentation: <https://quarto.org/docs/guide/>
+
+**Download Links**
 
 - Download R: <https://cloud.r-project.org>
 - Download R Studio Desktop: <https://posit.co/downloads>
 - Download Quarto: <https://quarto.org/docs/download/>
-- R for Data Science: <https://r4ds.hadley.nz>
+
