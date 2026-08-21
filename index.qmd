@@ -21,7 +21,7 @@ Welcome! I teach statistics and probability at the University of Nebraska–Linc
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 
 ::: {.card .text-center}
 
@@ -42,7 +42,7 @@ Introduction to Statistics
 :::
 
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 
 ::: {.card .text-center}
 
@@ -60,7 +60,7 @@ Statistics and Applications
 
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 
 ::: {.card .text-center}
 
