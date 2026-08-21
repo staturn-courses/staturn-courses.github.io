@@ -1,5 +1,6 @@
 ---
 title: "Tyler Wiederich, Ph.D."
+subtitle: "University of Nebraska--Lincoln"
 page-layout: full
 format: 
   html: 
@@ -15,7 +16,7 @@ about:
       icon: github
 ---
 
-Welcome! I teach statistics and probability at the University of Nebraska–Lincoln, with an emphasis on applications, computation, and statistical thinking. My current courses are provided below for my students and anyone else interested in learning statistics.
+Welcome! I teach statistics at the University of Nebraska–Lincoln, with an emphasis on applications, computation, and statistical thinking. My current courses are provided below for my students and anyone else interested in learning statistics.
 
 ## Current Courses
 
@@ -25,7 +26,7 @@ Welcome! I teach statistics and probability at the University of Nebraska–Linc
 
 ::: {.card .text-center}
 
-![](icon-218.png){width=150 fig-align="center" .mt-3}
+![](icon-218.png){width=175 fig-align="center" .mt-3}
 
 ::: {.card-body}
 
@@ -46,7 +47,7 @@ Introduction to Statistics
 
 ::: {.card .text-center}
 
-![](icon380.png){width=150 fig-align="center" .mt-3}
+![](icon380.png){width=175 fig-align="center" .mt-3}
 
 ::: {.card-body}
 
@@ -64,7 +65,7 @@ Statistics and Applications
 
 ::: {.card .text-center}
 
-![](icon801-2-edited.png){width=150 fig-align="center" .mt-3}
+![](icon801-2-edited.png){width=175 fig-align="center" .mt-3}
 
 ::: {.card-body}
 
