@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Here are a collection of links that I have found to be helpful with R programming.\nReferences\n\nR for Data Science: https://r4ds.hadley.nz\nQuarto documentation: https://quarto.org/docs/guide/\n\nDownload Links\n\nDownload R: https://cloud.r-project.org\nDownload R Studio Desktop: https://posit.co/downloads\nDownload Quarto: https://quarto.org/docs/download/"
+    "text": "Here are a collection of links that I have found to be helpful with R programming.\nReferences\n\nR for Data Science: https://r4ds.hadley.nz\nQuarto documentation: https://quarto.org/docs/guide/\nStatistical Computing using R and Python: https://srvanderplas.github.io/stat-computing-r-python/\n\nDownload Links\n\nDownload R: https://cloud.r-project.org\nDownload R Studio Desktop: https://posit.co/downloads\nDownload Quarto: https://quarto.org/docs/download/"
   },
   {
     "objectID": "courses.html",
@@ -33,5 +33,12 @@
     "title": "Tyler Wiederich, Ph.D.",
     "section": "Current Courses",
     "text": "Current Courses\n\n\n\n\n\n\n\n\n\nSTAT 218\nIntroduction to Statistics\n\n\n\n\n\n\n\n\n\n\n\nSTAT 380\nStatistics and Applications\n\n\n\n\n\n\n\n\n\n\n\nSTAT 801A\nStatistical Methods in Research"
+  },
+  {
+    "objectID": "graphics-group.html#advice",
+    "href": "graphics-group.html#advice",
+    "title": "Using Quarto and Github Pages for organizing academic materials",
+    "section": "Advice",
+    "text": "Advice"
   }
 ]

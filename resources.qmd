@@ -9,6 +9,7 @@ Here are a collection of links that I have found to be helpful with R programmin
 
 - R for Data Science: <https://r4ds.hadley.nz>
 - Quarto documentation: <https://quarto.org/docs/guide/>
+- Statistical Computing using R and Python: <https://srvanderplas.github.io/stat-computing-r-python/>
 
 **Download Links**
 
